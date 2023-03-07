@@ -16,6 +16,7 @@ import {
 const Formulario = ({productos, setProductos, setModalVisible, direccionIp}) => {
 
     
+    
     const [nombre, setNombre] = useState('')
     const [precio, setPrecio] = useState(0)
     const [detalles, setDetalles] = useState('')

@@ -17,7 +17,6 @@ import {
 import BuyProducts from './Products';
 import Productos from './Productos';
 
-
 const ScreenInitialNormal = ({route, navigation}) => {
 
     const { direccion, nombreUsuario } = route.params;

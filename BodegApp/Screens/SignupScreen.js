@@ -36,6 +36,7 @@ const Example = () => {
 };
 
 
+
     export default () => {
         return (
           <NativeBaseProvider>

@@ -83,6 +83,7 @@ const BuyProducts = ({route, navigation, direccion}) => {
                       )
                 ) : (
                     Alert.alert(
+                        
                         'Proceso...',
                         'El producto no se pudo eliminar',
                         [
